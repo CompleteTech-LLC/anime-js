@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.jpg" alt="Glowing 3D shapes moving along curved animation paths beside an isometric scroll track with a draggable thumb, in teal and amber on midnight navy." width="100%"></p>
+
 # Anime.js Scroll Clone
 
 Greenfield Vite/React implementation of the Anime.js homepage-style scroll animation. The page uses Anime.js 4.4.1 for DOM motion and draggable interaction, Three.js for the fixed WebGL stage, and GLB module assets copied into `public/models`.
