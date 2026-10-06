@@ -2,7 +2,7 @@
 
 # Anime.js Scroll Clone
 
-Greenfield Vite/React implementation of the Anime.js homepage-style scroll animation. The page uses Anime.js 4.4.1 for DOM motion and draggable interaction, Three.js for the fixed WebGL stage, and GLB module assets copied into `public/models`.
+Prototype of an Anime.js homepage-style scroll animation page, for developers who want a working example of Anime.js and Three.js driven by scroll. It is an unofficial clone and has no tests or deployed demo; run it locally with the steps below. The page uses Anime.js 4.4.1 for DOM motion and draggable interaction, Three.js for the fixed WebGL stage, and GLB module assets copied into `public/models`.
 
 ## Run
 
